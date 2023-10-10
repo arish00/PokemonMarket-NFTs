@@ -17,7 +17,7 @@
     "ethereum-waffle": "^2.5.1",
     "ethers": "^5.7.2",
     "ipfs-http-client": "^56.0.3",
-    "next": "12.1.0",
+    "next": "^12.1.0",
     "next-themes": "0.1.1",
     "nextjs-progressbar": "^0.0.16",
     "package-name": "^0.1.0",
